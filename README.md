@@ -3,7 +3,6 @@ In this repository, I will be uploading my textbook and readings notes for [MAT2
 
 | Week | Sections Covered |
 |-------------|----------------|
-| Week 1 (Sept 2 - 6) | Vectors, Lines, Planes, Surfaces, Other Coordinates, Graphing |
-| Week 2 (Sept 9 - 13) | Limits, Continuity, Partial Derivatives, Differentiability |
-| Week 3 (Sept 16 - 20) | Chain Rule, Directional Derivative and Gradient, Tangential Plane and Linear Approximation to Curved Surfaces |
-| Week 4 (Sept 23 - 27) | Small Signal Modelling, Double Integrals over Rectangular Regions, Double Integrals over General Regions | 
+| Week 2 (Sept 9 - 13) | Complex Functions and Complex Trigonometric and Hyperbolic Functions |
+| Week 3 (Sept 16 - 20) | First-Order Differential Equations |
+| Week 4 (Sept 23 - 27) | Higher-Order Differential Equations | 
