@@ -6,3 +6,4 @@ In this repository, I will be uploading my textbook and readings notes for [MAT2
 | Week 2 (Sept 9 - 13) | Complex Functions and Complex Trigonometric and Hyperbolic Functions |
 | Week 3 (Sept 16 - 20) | First-Order Differential Equations |
 | Week 4 (Sept 23 - 27) | Higher-Order Differential Equations | 
+| Week 5 (Sept 30 - Oct 4) | Differential Equations for Electric Circuits, Variation of Parameters, and the Laplace Transform |
