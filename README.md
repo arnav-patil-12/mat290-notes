@@ -10,3 +10,5 @@ In this repository, I will be uploading my textbook and readings notes for [MAT2
 | Week 6 (Oct 7 - 11) | The Laplace Transform (continued) |
 | Week 7 (Oct 14 - 18) | The Delta Function and Sets in the Complex Plane |
 | Week 8 (Oct 21 - 25) | Functions and Analyticity in the Complex Plane |
+| Week 9 (Nov 4 - 8) | Integration in the Complex Plane |
+| Week 10 (Nov 11 - 15) | Integration in the Complex Plane (continued), Sequences and Series |
